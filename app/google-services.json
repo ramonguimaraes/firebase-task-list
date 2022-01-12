@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345477725274",
+    "project_id": "fir-taks-list",
+    "storage_bucket": "fir-taks-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345477725274:android:8ba485d5e1fa1df0eeec63",
+        "android_client_info": {
+          "package_name": "com.ramonguimaraes.firebasetasklist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345477725274-k32q59ib0g2fb3f2h06oahpcc41ttgfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKFOS0jQa4qCTx-0pHSo_W9gcxIyqJvGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345477725274-k32q59ib0g2fb3f2h06oahpcc41ttgfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

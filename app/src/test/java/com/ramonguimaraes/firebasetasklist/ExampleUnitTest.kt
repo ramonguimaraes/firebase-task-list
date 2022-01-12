@@ -1,4 +1,4 @@
-package com.ramonguimaraes.myapplication
+package com.ramonguimaraes.firebasetasklist
 
 import org.junit.Test
 

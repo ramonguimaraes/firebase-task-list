@@ -1,4 +1,4 @@
-package com.ramonguimaraes.myapplication
+package com.ramonguimaraes.firebasetasklist
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
